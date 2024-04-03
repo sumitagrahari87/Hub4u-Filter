@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://telegra.ph/file/3af532de62b9d0b3058b6.jpg" alt="Hub4u-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  HUB4U FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
