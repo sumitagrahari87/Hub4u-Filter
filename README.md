@@ -5,7 +5,7 @@
   HUB4U FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Hub4u+Filter+Bot!)
 </p>
 
 ## Main Feature 
@@ -19,7 +19,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete Added
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/hub4u_updates'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ## Commands
 ```
