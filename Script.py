@@ -209,9 +209,15 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>{file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+╭─── • ❰ @Hub4u_Movie ❱ • ────➤
+┣ ▫️ @Hub4uZone
+┣ ▫️ @Latest_Hub4u_Movies2
+╰─────── • ◆ • ───────➤
+✅Deals, Offers Online Shopping - 👇
+
+https://t.me/+mcHGO6xpuHIzMDA1</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
