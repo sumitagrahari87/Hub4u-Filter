@@ -217,10 +217,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ╰─────── • ◆ • ───────➤
 ✅Deals, Offers Online Shopping - 👇
 
-https://t.me/+mcHGO6xpuHIzMDA1</b>""" 
-
-    <b> Size ⚙️: {file_size}</b>"""
-
+https://t.me/+mcHGO6xpuHIzMDA1</b>"""
+    
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
