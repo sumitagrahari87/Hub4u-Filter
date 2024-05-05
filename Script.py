@@ -198,7 +198,7 @@ SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
 
     SINFO = """
-🫣 Movie Venumna Join Panni Try Again Buttana Click Pannu😅"""
+🫣 For Movie Join First Then Click On Try Again Button 😅"""
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -218,6 +218,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ✅Deals, Offers Online Shopping - 👇
 
 https://t.me/+mcHGO6xpuHIzMDA1</b>""" 
+
+    <b> Size ⚙️: {file_size}</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
